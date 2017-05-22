@@ -1,2 +1,3 @@
 # AMATH
-Some interesting matlab programs I wrote.
+[AMATH 301]
+-face recognition
